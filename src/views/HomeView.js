@@ -15,7 +15,7 @@ const HomeView = ({ isAuthenticated }) => {
         boxShadow: "0px 0px 23px 4px rgba(0,0,0,0.31)",
       }}
     >
-      <h1>Hello, friend!</h1>
+      <h1>Hello, friend</h1>
       <p>
         This is a simple phonebook application created with React, Redux toolkit
         and React Bootstrap.
